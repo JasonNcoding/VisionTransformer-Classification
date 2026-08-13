@@ -22,11 +22,11 @@ pip install -r requirements.txt
 ```
 
 ## Usage
+`ViT_Classification_Workspace.ipynb` — prepares and splits the dataset
 
-[Order to run the notebooks, e.g.:]
-1. `01_preprocessing.ipynb` — prepares and splits the dataset
-2. `02_train.ipynb` — trains the ViT model
-3. `03_evaluate.ipynb` — evaluates on the held-out test set
+## Dataset
+
+This dataset contains images of animals across 20 different classes, totaling more than 150GB in size.
 
 ## Results
 
