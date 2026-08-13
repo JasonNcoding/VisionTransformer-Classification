@@ -18,7 +18,6 @@ Image classification project built around a Vision Transformer (ViT) architectur
 ```bash
 git clone https://github.com/JasonNcoding/VisionTransformer-Classification.git
 cd VisionTransformer-Classification
-pip install -r requirements.txt
 ```
 
 ## Usage
